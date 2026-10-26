@@ -5,7 +5,7 @@ description: "[Describe the maintenance task this skill handles and when to use 
 
 # Reviewable change scaffold
 
-Copy to .github/skills/reviewable-change/SKILL.md. Replace all bracketed text and remove this sentence before running it.
+Copy to .cursor/skills/reviewable-change/SKILL.md. Replace all bracketed text and remove this sentence before running it.
 
 ## Inputs and readiness
 

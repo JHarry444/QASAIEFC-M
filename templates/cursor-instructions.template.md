@@ -1,6 +1,6 @@
 # Repository instructions scaffold
 
-This is a learner scaffold. Copy it to .github/copilot-instructions.md, replace each bracketed item with your own rule and remove this opening paragraph.
+This is a learner scaffold. Copy it to .cursor/rules/instructions.md, replace each bracketed item with your own rule and remove this opening paragraph.
 
 ## Project context
 

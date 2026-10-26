@@ -2,7 +2,7 @@
 
 Learner identifier:
 Run date and time:
-VS Code and Copilot versions:
+VS Code and Cursor versions:
 Agent harness and model:
 Git revision or named snapshot:
 Instruction and skill discovery evidence:

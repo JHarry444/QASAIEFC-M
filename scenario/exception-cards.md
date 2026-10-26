@@ -12,4 +12,4 @@ Squad two changes the shared skill to skip failing tests for urgent work. Its co
 
 ## Card C Missing context
 
-The service owner requests another priority alias without specifying the mapping. Copilot produces a patch and says it is ready. Which output can you use, what must you reject, and who supplies the missing requirement?
+The service owner requests another priority alias without specifying the mapping. Cursor produces a patch and says it is ready. Which output can you use, what must you reject, and who supplies the missing requirement?
